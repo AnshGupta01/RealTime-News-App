@@ -13,7 +13,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:scaleType="centerCrop"
-        />
+        android:contentDescription="Image of content" />
 
     <TextView
         android:id="@+id/title"
